@@ -1,0 +1,16 @@
+p, 
+ul {
+  border: 2px solid lightgreen;
+  padding: .5em;
+  margin: 40px;
+  
+}
+
+.box {
+    border-top: 10px double ;
+    background-color: palevioletred;
+    padding: 40px;
+    width: 300px;
+    height: 150px;
+    border-bottom: 10px double;
+  }
